@@ -1,7 +1,7 @@
 initial_test
 ============
 
-## BIg heading
+## Big heading
 
 * bullet list
 * next item
